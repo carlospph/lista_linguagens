@@ -7,7 +7,7 @@
       "React",
       "Vue"
     ],
-    "imagem": "front_end.jpg"
+    "imagem": "fa-html5"
   },
   {
     "nome": "Back end",
@@ -18,7 +18,7 @@
       "PHP",
       "C#"
     ],
-    "imagem": "back_end.jpg"
+    "imagem": "fa-server"
   },
   {
     "nome": "Banco de dados",
@@ -28,7 +28,7 @@
       "MongoDB",
       "SQLite"
     ],
-    "imagem": "banco_dados.jpg"
+    "imagem": "fa-database"
   },
   {
     "nome": "IA",
@@ -39,7 +39,7 @@
       "Monica",
       "Copilot"
     ],
-    "imagem": "ia.jpg"
+    "imagem": "fa-robot"
   },
   {
     "nome": "Office",
@@ -49,7 +49,7 @@
       "PowerPoint",
       "Power BI"
     ],
-    "imagem": "office.jpg"
+    "imagem": "fa-file-alt"
   },
   {
     "nome": "Designer",
@@ -60,7 +60,7 @@
       "Canva",
       "Adobe XD"
     ],
-    "imagem": "designer.jpg"
+    "imagem": "fa-paint-brush"
   },
   {
     "nome": "Suporte TI",
@@ -71,7 +71,7 @@
       "Infraestrutura",
       "Manutenção"
     ],
-    "imagem": "suporte_ti.jpg"
+    "imagem": "fa-tools"
   },
   {
     "nome": "Desenvolvimento",
@@ -83,7 +83,7 @@
       "DevOps",
       "Games"
     ],
-    "imagem": "desenvolvimento.jpg"
+    "imagem": "fa-code"
   },
   {
     "nome": "Gestão Dev",
@@ -93,6 +93,6 @@
       "Jira",
       "Git"
     ],
-    "imagem": "gestao_dev.jpg"
+    "imagem": "fa-tasks"
   }
 ]
