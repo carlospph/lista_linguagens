@@ -1,0 +1,98 @@
+[
+  {
+    "nome": "Front end",
+    "lingua": [
+      "Html",
+      "CSS",
+      "React",
+      "Vue"
+    ],
+    "imagem": "front_end.jpg"
+  },
+  {
+    "nome": "Back end",
+    "lingua": [
+      "Node.js",
+      "Python",
+      "Java",
+      "PHP",
+      "C#"
+    ],
+    "imagem": "back_end.jpg"
+  },
+  {
+    "nome": "Banco de dados",
+    "lingua": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "SQLite"
+    ],
+    "imagem": "banco_dados.jpg"
+  },
+  {
+    "nome": "IA",
+    "lingua": [
+      "Gemini",
+      "Claude",
+      "Sabia 3",
+      "Monica",
+      "Copilot"
+    ],
+    "imagem": "ia.jpg"
+  },
+  {
+    "nome": "Office",
+    "lingua": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Power BI"
+    ],
+    "imagem": "office.jpg"
+  },
+  {
+    "nome": "Designer",
+    "lingua": [
+      "Photoshop",
+      "Illustrator",
+      "Figma",
+      "Canva",
+      "Adobe XD"
+    ],
+    "imagem": "designer.jpg"
+  },
+  {
+    "nome": "Suporte TI",
+    "lingua": [
+      "Helpdesk",
+      "Redes",
+      "Segurança",
+      "Infraestrutura",
+      "Manutenção"
+    ],
+    "imagem": "suporte_ti.jpg"
+  },
+  {
+    "nome": "Desenvolvimento",
+    "lingua": [
+      "Mobile",
+      "Desktop",
+      "Web",
+      "API",
+      "DevOps",
+      "Games"
+    ],
+    "imagem": "desenvolvimento.jpg"
+  },
+  {
+    "nome": "Gestão Dev",
+    "lingua": [
+      "Scrum",
+      "Agile",
+      "Jira",
+      "Git"
+    ],
+    "imagem": "gestao_dev.jpg"
+  }
+]
