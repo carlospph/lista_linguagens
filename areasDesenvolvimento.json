@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "Front end",
+    "nome": "Front end",
     "lingua": [
       "Html",
       "CSS",
@@ -10,7 +10,7 @@
     "imagem": "fa-leaf"
   },
   {
-    "categoria": "Back end",
+    "nome": "Back end",
     "lingua": [
       "Node.js",
       "Python",
@@ -21,7 +21,7 @@
     "imagem": "fa-server"
   },
   {
-    "categoria": "Banco de dados",
+    "nome": "Banco de dados",
     "lingua": [
       "MySQL",
       "PostgreSQL",
@@ -31,7 +31,7 @@
     "imagem": "fa-database"
   },
   {
-    "categoria": "IA",
+    "nome": "IA",
     "lingua": [
       "Gemini",
       "Claude",
@@ -42,7 +42,7 @@
     "imagem": "fa-robot"
   },
   {
-    "categoria": "Office",
+    "nome": "Office",
     "lingua": [
       "Word",
       "Excel",
@@ -52,7 +52,7 @@
     "imagem": "fa-file-alt"
   },
   {
-    "categoria": "Designer",
+    "nome": "Designer",
     "lingua": [
       "Photoshop",
       "Illustrator",
@@ -63,7 +63,7 @@
     "imagem": "fa-paint-brush"
   },
   {
-    "categoria": "Suporte TI",
+    "nome": "Suporte TI",
     "lingua": [
       "Helpdesk",
       "Redes",
@@ -74,7 +74,7 @@
     "imagem": "fa-tools"
   },
   {
-    "categoria": "Desenvolvimento",
+    "nome": "Desenvolvimento",
     "lingua": [
       "Mobile",
       "Desktop",
@@ -86,7 +86,7 @@
     "imagem": "fa-code"
   },
   {
-    "categoria": "Gestão Dev",
+    "nome": "Gestão Dev",
     "lingua": [
       "Scrum",
       "Agile",
